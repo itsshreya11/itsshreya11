@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsshreya11" alt="itsshreya11" /></a> </p>
 
-- 🔭 I’m currently working on **Course Coverage Monitoring System**
+- 🔭 I’m currently working on **means working on project**
 
 - 🌱 I’m currently learning **c++& DSA**
 
 - 💬 Ask me about **DSA with c,forntend**
 
-- 📫 How to reach me **singhshreya2961@gma0il.com**
+- 📫 How to reach me **singhshreya2961@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
